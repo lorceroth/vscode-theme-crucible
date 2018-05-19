@@ -1,0 +1,26 @@
+{
+    "name": "theme-crucible",
+    "displayName": "Crucible Theme",
+    "description": "A soft and dark bluish theme based on Sapphire",
+    "version": "0.1.0",
+    "icon": "icon.png",
+    "license": "MIT",
+    "publisher": "Lorceroth",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lorceroth/vscode-theme-crucible"
+    },
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        {
+            "label": "Crucible Theme",
+            "uiTheme": "vs-dark",
+            "path": "./theme.json"
+        }
+    }
+}
