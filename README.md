@@ -4,4 +4,4 @@
 
 Crucible Theme for Visual Studio Code. It's originally based on the wonderful [Sapphire Theme](https://github.com/Tyriar/vscode-theme-sapphire).
 
-![Preview](preview.png)
+[![Preview](preview.png)](preview.png)
