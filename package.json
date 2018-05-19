@@ -17,10 +17,12 @@
         "Themes"
     ],
     "contributes": {
-        {
-            "label": "Crucible Theme",
-            "uiTheme": "vs-dark",
-            "path": "./theme.json"
-        }
+        "themes": [
+            {
+                "label": "Crucible Theme",
+                "uiTheme": "vs-dark",
+                "path": "./theme.json"
+            }
+        ]
     }
 }
